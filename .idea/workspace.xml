@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad683fc3-b344-44c6-ab22-57071f2444fb" name="Changes" comment="검색창 구성">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homepage.txt" afterDir="false" />
-    </list>
+    <list default="true" id="ad683fc3-b344-44c6-ab22-57071f2444fb" name="Changes" comment="검색창 구성" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/home",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/rladl/git-tutorial",
     "node.js.detected.package.eslint": "true",
@@ -98,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743384169663</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="검색창 구성">
+      <option name="closed" value="true" />
+      <created>1743386945036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743386945036</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,8 +124,8 @@
     <MESSAGE value="한꺼번에 커밋" />
     <MESSAGE value="헤더 메뉴 타이틀 작성" />
     <MESSAGE value="헤더 메뉴 레이아웃 구성" />
-    <MESSAGE value="검색창 구성" />
     <MESSAGE value="레이아웃" />
-    <option name="LAST_COMMIT_MESSAGE" value="레이아웃" />
+    <MESSAGE value="검색창 구성" />
+    <option name="LAST_COMMIT_MESSAGE" value="검색창 구성" />
   </component>
 </project>
